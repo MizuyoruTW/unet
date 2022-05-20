@@ -19,6 +19,7 @@ Other environment I use:
 -   Software
     -   OS: Windows 11 21H2
     -   Python Virtual Env: Anaconda
+    -   Python: 3.6
     -   CUDAtoolkit: 11.3.1
     -   cudnn: 8.2.1
 
